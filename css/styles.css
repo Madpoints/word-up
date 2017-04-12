@@ -6,7 +6,7 @@ body {
 
 .jumbotron {
     padding: 2%;
-    background: orange;
+    background: #C6538C;
     color: #fff;
 }
 
@@ -42,13 +42,13 @@ main {
 
 .word-submission {
     font-size: 30px;
-    color: orange;
+    color: #C6538C;
     font-weight: normal;
 }
 
 .allowed-letter {
     font-size: 40px;
-    color: orange;
+    color: #C6538C;
 }
 
 .scoreboard-data {
